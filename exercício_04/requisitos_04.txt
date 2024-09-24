@@ -1,0 +1,22 @@
+Crie uma classe chamada Pessoa contendo os atributos código, nome, idade e telefone, leia o arquivo .xlsx, transforme em um DataFrame e atribua os valores como objetos da classe criada.
+
+
+O usuário do sistema ira interagir com ele através do console e um menu.
+Dentro do sistema faça um menu com as opções:
+
+
+1 – Cadastrar uma nova pessoa, porém não permita pessoas com
+telefone iguais na base de dados.
+
+
+2 – Consultar todas as pessoas, antigas e novas
+
+
+3 – Editar uma pessoa da base de dados
+
+
+4 – Excluir uma pessoa da base de dados
+
+
+5 – Sair, ao sair do sistema, gere um novo arquivo chamado “novo.xlsx”
+contendo todas as pessoas do sistema

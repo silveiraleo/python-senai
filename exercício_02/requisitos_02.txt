@@ -1,0 +1,10 @@
+Crie um programa em Python que permita aos usuários gerenciarem suas tarefas usando uma lista de afazeres ("to-do list"). O programa deve oferecer as seguintes funcionalidades:
+
+1 -    Adicionar uma tarefa à lista.
+2 -   Visualizar todas as tarefas na lista.
+3 -    Marcar uma tarefa como concluída.
+4 -   Remover uma tarefa da lista.
+5 -   Sair do programa.
+Orientações:
+Crie o “Menu de Opções” como uma tupla;
+Crie as tarefas como dicionários;

@@ -1,0 +1,18 @@
+Suponha que você está desenvolvendo um sistema bancário simples. Crie as classes ContaBancaria e Cliente de acordo com as seguintes especificações:
+
+Cliente possui os seguintes atributos:
+- nome (nome do cliente)
+- cpf (número de CPF do cliente)
+
+ContaBancaria possui os seguintes atributos:
+
+- numero_conta (número da conta)
+- saldo (saldo atual da conta)
+- titular (um objeto do tipo Cliente que representa o titular da conta)
+
+ContaBancaria deve ter os seguintes métodos:
+
+- depositar(valor): recebe um valor e adiciona esse valor ao saldo da conta.
+- sacar(valor): recebe um valor e verifica se há saldo suficiente na conta para efetuar o saque. Se houver saldo suficiente, subtrai o valor do saldo da conta; caso contrário, exibe uma mensagem de erro.
+- consultar_saldo(): retorna o saldo atual da conta.
+- informacoes_titular(): exibe as informações do titular da conta (nome e CPF).
